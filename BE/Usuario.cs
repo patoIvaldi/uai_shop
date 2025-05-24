@@ -8,7 +8,6 @@ namespace BE
 {
     public class Usuario
     {
-
         public Usuario() { }
 
         private String username;

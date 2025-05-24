@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{738F1BC9-ABFC-4D25-B324-E4799E75A9D0}</ProjectGuid>
+    <ProjectGuid>{349F5745-B130-4DCF-A710-10EF4900AD2F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SERVICES</RootNamespace>
@@ -42,16 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="EncriptadorService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BE\BE.csproj">
-      <Project>{498dcd10-5608-44a4-884b-2a8bd1b2436c}</Project>
+      <Project>{2f1b0cac-dc4e-40c7-befc-a5f2bb0c72e9}</Project>
       <Name>BE</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\BLL\BLL.csproj">
-      <Project>{92920750-96ff-439b-906d-894dd9f70224}</Project>
-      <Name>BLL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

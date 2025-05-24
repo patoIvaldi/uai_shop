@@ -10,7 +10,6 @@ namespace SERVICES
 {
     public class EncriptadorService
     {
-
         public EncriptadorService() { }
 
         private static EncriptadorService _instance;
@@ -76,7 +75,5 @@ namespace SERVICES
             for (int i = 0; i < stream.Length; i++) sb.AppendFormat("{0:x2}", stream[i]);
             return sb.ToString();
         }
-
-
     }
 }

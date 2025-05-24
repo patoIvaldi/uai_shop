@@ -8,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    class Acceso
+    public class Acceso
     {
-
         private SqlConnection conexion;
 
         //metodo que se encarga de abrir la conexion con la BD
@@ -169,6 +168,5 @@ namespace DAL
             par.DbType = DbType.Single;
             return par;
         }
-
     }
 }
