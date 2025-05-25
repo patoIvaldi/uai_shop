@@ -11,3 +11,16 @@ C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BLL\obj\Debug\BLL.dll
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\BE.dll
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\SERVICES.dll
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\BE.pdb
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\WEB\BLL\bin\Debug\SERVICES.pdb
+C:\Users\Pablo\Desktop\WEB\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\WEB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\WEB\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Pablo\Desktop\WEB\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\WEB\BLL\obj\Debug\BLL.pdb

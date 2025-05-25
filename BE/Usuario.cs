@@ -25,5 +25,14 @@ namespace BE
             get { return contrasenia; }
             set { contrasenia = value; }
         }
+
+        private int tipoUser;
+
+        public int TipoUser
+        {
+            get { return tipoUser; }
+            set { tipoUser = value; }
+        }
+
     }
 }
