@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9EC101-AAB4-413B-A1CC-E4397F3E3EE0}|..\\BLL\\BLL.csproj|c:\\users\\pablo\\desktop\\web\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9EC101-AAB4-413B-A1CC-E4397F3E3EE0}|..\\BLL\\BLL.csproj|c:\\users\\pablo\\desktop\\web\\bll\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\Class1.cs",
+              "RelativeToolTip": "..\\BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:37:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDal.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\UsuarioDal.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\UsuarioDal.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\UsuarioDal.cs",
+              "RelativeToolTip": "..\\DAL\\UsuarioDal.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:37:17.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioBll.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\UsuarioBll.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\UsuarioBll.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\UsuarioBll.cs",
+              "RelativeToolTip": "..\\BLL\\UsuarioBll.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:35:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\bootstrap.css",
+              "RelativeToolTip": "Content\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-24T18:54:48.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:48:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-24T18:47:19.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Acceso.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Acceso.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Acceso.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Acceso.cs",
+              "RelativeToolTip": "..\\DAL\\Acceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:29:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Usuario.cs",
+              "RelativeToolTip": "..\\BE\\Usuario.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:25:56.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Class1.cs",
+              "RelativeToolTip": "..\\DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:25:46.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-24T18:23:23.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
