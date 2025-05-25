@@ -4,3 +4,9 @@ C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BE\obj\Debug\BE.dll
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\BE\obj\Debug\BE.pdb
+C:\Users\kdpel\Source\Repos\uai_shop\BE\bin\Debug\BE.dll
+C:\Users\kdpel\Source\Repos\uai_shop\BE\bin\Debug\BE.pdb
+C:\Users\kdpel\Source\Repos\uai_shop\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\kdpel\Source\Repos\uai_shop\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\kdpel\Source\Repos\uai_shop\BE\obj\Debug\BE.dll
+C:\Users\kdpel\Source\Repos\uai_shop\BE\obj\Debug\BE.pdb

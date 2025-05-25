@@ -7,3 +7,12 @@ C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.csproj.CopyComplete
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.dll
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.pdb
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\SERVICES.dll
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\SERVICES.pdb
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\BE.dll
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\BE.pdb
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.csproj.Up2Date
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.dll
+C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.pdb
