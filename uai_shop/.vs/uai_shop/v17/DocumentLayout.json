@@ -3,18 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349F5745-B130-4DCF-A710-10EF4900AD2F}|..\\SERVICES\\SERVICES.csproj|c:\\users\\pablo\\desktop\\web\\services\\encriptadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9EC101-AAB4-413B-A1CC-E4397F3E3EE0}|..\\BLL\\BLL.csproj|c:\\users\\pablo\\desktop\\web\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD9EC101-AAB4-413B-A1CC-E4397F3E3EE0}|..\\BLL\\BLL.csproj|c:\\users\\pablo\\desktop\\web\\bll\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -23,10 +33,19 @@
       "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\permisosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5009EDDF-2BBD-4708-A157-ADFE9008636B}|..\\DAL\\DAL.csproj|c:\\users\\pablo\\desktop\\web\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\permisocompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\perfildeacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0CAC-DC4E-40C7-BEFC-A5F2BB0C72E9}|..\\BE\\BE.csproj|c:\\users\\pablo\\desktop\\web\\be\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9EC101-AAB4-413B-A1CC-E4397F3E3EE0}|..\\BLL\\BLL.csproj|c:\\users\\pablo\\desktop\\web\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -35,6 +54,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D6759B1-B695-4920-A579-071837A3ED57}|C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +67,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,6 +92,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EncriptadorService.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\SERVICES\\EncriptadorService.cs",
+              "RelativeDocumentMoniker": "..\\SERVICES\\EncriptadorService.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\SERVICES\\EncriptadorService.cs",
+              "RelativeToolTip": "..\\SERVICES\\EncriptadorService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:19:03.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-25T22:02:58.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Global.asax",
+              "RelativeDocumentMoniker": "Global.asax",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Global.asax",
+              "RelativeToolTip": "Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2025-05-25T22:02:55.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Class1.cs",
+              "RelativeToolTip": "..\\BE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:22:44.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermisoCompuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PermisoCompuesto.cs",
+              "RelativeDocumentMoniker": "..\\BE\\PermisoCompuesto.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PermisoCompuesto.cs",
+              "RelativeToolTip": "..\\BE\\PermisoCompuesto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:11:20.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermisoSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PermisoSimple.cs",
+              "RelativeDocumentMoniker": "..\\BE\\PermisoSimple.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PermisoSimple.cs",
+              "RelativeToolTip": "..\\BE\\PermisoSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:11:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerfilDeAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PerfilDeAcceso.cs",
+              "RelativeDocumentMoniker": "..\\BE\\PerfilDeAcceso.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\PerfilDeAcceso.cs",
+              "RelativeToolTip": "..\\BE\\PerfilDeAcceso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:10:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
@@ -81,57 +194,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsuarioDal.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\UsuarioDal.cs",
               "RelativeDocumentMoniker": "..\\DAL\\UsuarioDal.cs",
               "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\UsuarioDal.cs",
               "RelativeToolTip": "..\\DAL\\UsuarioDal.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAArwD4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vzEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T19:37:17.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UsuarioBll.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\UsuarioBll.cs",
               "RelativeDocumentMoniker": "..\\BLL\\UsuarioBll.cs",
               "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BLL\\UsuarioBll.cs",
               "RelativeToolTip": "..\\BLL\\UsuarioBll.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T19:35:17.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\bootstrap.css",
               "RelativeDocumentMoniker": "Content\\bootstrap.css",
               "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Content\\bootstrap.css",
               "RelativeToolTip": "Content\\bootstrap.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-24T18:54:48.128Z"
+              "WhenOpened": "2025-05-24T18:54:48.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx.cs",
-              "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LogIn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\LogIn.aspx.cs",
+              "RelativeDocumentMoniker": "LogIn.aspx.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\LogIn.aspx.cs",
+              "RelativeToolTip": "LogIn.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T18:48:38.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Contact.aspx",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Contact.aspx",
               "RelativeDocumentMoniker": "Contact.aspx",
@@ -150,27 +264,27 @@
               "RelativeDocumentMoniker": "..\\DAL\\Acceso.cs",
               "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Acceso.cs",
               "RelativeToolTip": "..\\DAL\\Acceso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T18:29:52.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Usuario.cs",
               "RelativeDocumentMoniker": "..\\BE\\Usuario.cs",
               "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\BE\\Usuario.cs",
               "RelativeToolTip": "..\\BE\\Usuario.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwB4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T18:25:56.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
@@ -183,12 +297,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx",
-              "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\Default.aspx",
-              "RelativeToolTip": "Default.aspx",
+              "DocumentIndex": 0,
+              "Title": "LogIn.aspx",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\LogIn.aspx",
+              "RelativeDocumentMoniker": "LogIn.aspx",
+              "ToolTip": "C:\\Users\\Pablo\\Desktop\\WEB\\uai_shop\\LogIn.aspx",
+              "RelativeToolTip": "LogIn.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-05-24T18:23:23.598Z",

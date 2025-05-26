@@ -42,6 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="PerfilDeAcceso.cs" />
+    <Compile Include="PermisoCompuesto.cs" />
+    <Compile Include="PermisoSimple.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario.cs" />
   </ItemGroup>

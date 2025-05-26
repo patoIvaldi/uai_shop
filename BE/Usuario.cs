@@ -34,5 +34,7 @@ namespace BE
             set { tipoUser = value; }
         }
 
+        public PerfilDeAcceso Permiso { get; set; }
+
     }
 }

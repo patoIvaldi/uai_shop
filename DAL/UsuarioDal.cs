@@ -45,15 +45,9 @@ namespace DAL
                                 us = new Usuario();
                                 us.USERNAME = reader["Nombre"].ToString();
                                 us.CONTRASENIA = passwordBD;
-
-                                // Llenar el tipo de usuario con lo que dice la base de datos
                                 int tipo = Convert.ToInt32(reader["TipoUsuario"]);
-                                us.TipoUser = tipo; // Asegurate que la propiedad en tu clase Usuario se llame así
-
-                                // Si querés convertirlo a un objeto PermisoSimple o PermisoCompuesto según el tipo:
-                                // if (tipo == 1) us.TipoUser = new PermisoCompuesto("Webmaster");
-                                // else if (tipo == 2) us.TipoUser = new PermisoCompuesto("Admin");
-                                // else if (tipo == 3) us.TipoUser = new PermisoSimple("User");
+                                us.TipoUser = tipo;
+                                
                             }
                         }
                     }

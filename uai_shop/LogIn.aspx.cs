@@ -23,10 +23,11 @@ public partial class _Default : Page
         UsuarioBll usuarioBll = new UsuarioBll();
         Usuario usuariobd = usuarioBll.Buscar(usuario);
 
-        if (usuariobd == null)
+        if (usuariobd != null)
         {
-            lblError.Text = "Usuario o contraseña incorrectos.";
-            lblError.Visible = true;
+            Response.Redirect("Contact.aspx");
+        }
+        else {lblError.Text = "Usuario o contraseña incorrectos."; lblError.Visible = true;
         }
     }
 }
