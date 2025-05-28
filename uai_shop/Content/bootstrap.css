@@ -4294,8 +4294,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top,
 .navbar-fixed-bottom {
   position: fixed;
-  right: 0;
-  left: 0;
+  right: -1px;
+  left: 1px;
   z-index: 1030;
 }
 .navbar-fixed-top .navbar-collapse,
@@ -4315,7 +4315,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-fixed-top {
-  top: 0;
+  top: -7px;
   border-width: 0 0 1px;
 }
 .navbar-fixed-bottom {
