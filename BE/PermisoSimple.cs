@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace BE
 {
-    public class PermisoSimple : PerfilDeAcceso
+    public class PermisoSimple : Perfil
     {
-        public override List<PerfilDeAcceso> GetPermisos()
+        public override List<Perfil> GetPermisos()
         {
-            return new List<PerfilDeAcceso> { this };
+            return new List<Perfil> { this };
         }
     }
 }

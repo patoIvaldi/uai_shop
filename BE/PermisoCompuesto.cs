@@ -1,28 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace BE
 {
-    public class PermisoCompuesto : PerfilDeAcceso
+    public class PermisoCompuesto : Perfil
     {
-        private List<PerfilDeAcceso> _hijos = new List<PerfilDeAcceso>();
+        private List<Perfil> _hijos = new List<Perfil>();
 
-        public void Agregar(PerfilDeAcceso permiso)
+        public void Agregar(Perfil permiso)
         {
             _hijos.Add(permiso);
         }
 
-        public void Quitar(PerfilDeAcceso permiso)
+        public void Quitar(Perfil permiso)
         {
             _hijos.Remove(permiso);
         }
 
-        public override List<PerfilDeAcceso> GetPermisos()
+        public override List<Perfil> GetPermisos()
         {
-            List<PerfilDeAcceso> todos = new List<PerfilDeAcceso>();
+            List<Perfil> todos = new List<Perfil>();
 
             foreach (var hijo in _hijos)
             {

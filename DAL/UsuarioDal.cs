@@ -31,7 +31,7 @@ namespace DAL
                 {
                     // Asegurate de que no agregás este parámetro más de una vez
                     cmd.Parameters.AddWithValue("@user", user.USERNAME);
-                    cmd.Parameters.AddWithValue("@pass", user.CONTRASENIA);
+                    cmd.Parameters.AddWithValue("@pass", user.Clave);
 
                     conn.Open();
                     using (SqlDataReader reader = cmd.ExecuteReader())
@@ -40,11 +40,11 @@ namespace DAL
                         {
                             string passwordBD = reader["Pass"].ToString();
 
-                            if (passwordBD == user.CONTRASENIA)
+                            if (passwordBD == user.Clave)
                             {
                                 us = new Usuario();
                                 us.USERNAME = reader["Nombre"].ToString();
-                                us.CONTRASENIA = passwordBD;
+                                us.Clave = passwordBD;
                                 int tipo = Convert.ToInt32(reader["TipoUsuario"]);
                                 us.TipoUser = tipo;
                                 
