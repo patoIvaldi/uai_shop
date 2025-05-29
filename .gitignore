@@ -57,3 +57,9 @@ iisexpress/
 Thumbs.db
 Desktop.ini
 
+/SERVICES/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/BE/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/BLL/obj/Debug/BLL.csproj.AssemblyReference.cache
+/BLL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/DAL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
