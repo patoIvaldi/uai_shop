@@ -41,7 +41,7 @@ namespace SERVICES
                 sb2.AppendFormat("{0:x2}", stream2[i]);
             }
             Usuario userEncriptado = new Usuario();
-            userEncriptado.USERNAME = user.USERNAME;
+            userEncriptado.NombreUsuario = user.NombreUsuario;
             userEncriptado.Clave = sb2.ToString();
             return userEncriptado; // TODO poner de nuevo userEncriptado, use user solo para testing
         }

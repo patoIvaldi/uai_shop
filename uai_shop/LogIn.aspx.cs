@@ -18,8 +18,8 @@ public partial class _Default : Page
     protected void ButtonLogin_Click(object sender, EventArgs e)
     {
         Usuario usuario = new Usuario();
-        usuario.USERNAME = TextBox1User.Text;
-        usuario.CONTRASENIA = TextBox2pass.Text;
+        usuario.NombreUsuario = TextBox1User.Text;
+        usuario.Clave = TextBox2pass.Text;
         UsuarioBll usuarioBll = new UsuarioBll();
         Usuario usuariobd = usuarioBll.Buscar(usuario);
 

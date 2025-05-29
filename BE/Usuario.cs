@@ -8,7 +8,7 @@ namespace BE
 
         private String username;
 
-        public string USERNAME
+        public string NombreUsuario
         {
             get { return username; }
             set { username = value; }

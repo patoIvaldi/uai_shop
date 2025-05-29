@@ -1,77 +1,84 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
+﻿###############
+## Visual Studio
+###############
 
-# Carpetas comunes de salida
+## Carpetas generadas
 bin/
 obj/
 Debug/
 Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]uild/
+[Bb]uild[Ll]og.*
 
-# Archivos temporales
-*.log
-*.suo
+## Archivos de usuario
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
-*.vspscc
-*.vssscc
-*.ncb
-*.aps
-*.cache
-*.dbmdl
 
-# Configuraciones de VS
+## Visual Studio config
 .vs/
 .vscode/
 
-# Archivos de publicación
-_PublishedWebsites/
-*.Publish.xml
-
-# Archivos de Web.config transformados
-web.*.config
-
-# Paquetes NuGet
-packages/
-*.nupkg
-project.lock.json
-project.assets.json
-
-# Archivos de trabajo temporales
-~$*
+## Archivos temporales
 *.tmp
 *.bak
 *.swp
+*.log
 *.orig
+~$*
 
-# Archivos de usuario
-*.resharper
-*.DotSettings.user
+## Web.config transforms
+web.*.config
 
-# Archivos de IIS Express
-.vs/
+## Publicación y despliegue
+_PublishedWebsites/
+*.Publish.xml
+
+## IIS Express
 iisexpress/
 
-# Otros archivos del sistema
+###############
+## .NET
+###############
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+*.nupkg
+.nuget/
+packages/
+artifacts/
+
+###############
+## Rider / ReSharper
+###############
+.idea/
+*.DotSettings.user
+*.ReSharper
+resharper-host/
+
+###############
+## Sistema operativo
+###############
+
+# macOS
+.DS_Store
+
+# Windows
 Thumbs.db
 Desktop.ini
 
-/SERVICES/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/BE/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/BLL/obj/Debug/BLL.csproj.AssemblyReference.cache
-/BLL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/DAL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
-/uaiShop/.vs/uaiShop/FileContentIndex/3ab0463e-e0b4-40e0-9c6c-15680e781f87.vsidx
-/uaiShop/.vs/uaiShop/FileContentIndex/9ee72623-fb0d-4ec9-b42b-27f3d22d1730.vsidx
-/uaiShop/.vs/uaiShop/FileContentIndex/c51dfeba-420e-409f-ab43-f5a30bb42cfd.vsidx
-/uaiShop/.vs/uaiShop/FileContentIndex/c9a62e7f-fe88-42c1-95d4-861fde32f87c.vsidx
-/uaiShop/.vs/uaiShop/FileContentIndex/fd429d3e-3d4e-4904-90a9-4436231a6f49.vsidx
-/uaiShop/.vs/uaiShop/v17/DocumentLayout.backup.json
-/uaiShop/.vs/uaiShop/v17/DocumentLayout.json
-/uaiShop/.vs/uaiShop/v17/fileList.bin
-/uai_shop/.vs/uai_shop/v17/.suo
-/uai_shop/.vs/uai_shop/v17/DocumentLayout.backup.json
-/uai_shop/.vs/uai_shop/v17/DocumentLayout.json
-/uai_shop/.vs/uai_shop/v17/fileList.bin
+# Linux
+*~
+
+###############
+## Otros
+###############
+*.dbmdl     # Base de datos local
+*.mdf       # SQL Server database files
+*.ldf
+*.pidb

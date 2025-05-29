@@ -30,7 +30,7 @@ namespace DAL
                 using (SqlCommand cmd = new SqlCommand(consulta, conn))
                 {
                     // Asegurate de que no agregás este parámetro más de una vez
-                    cmd.Parameters.AddWithValue("@user", user.USERNAME);
+                    cmd.Parameters.AddWithValue("@user", user.NombreUsuario);
                     cmd.Parameters.AddWithValue("@pass", user.Clave);
 
                     conn.Open();
@@ -43,7 +43,7 @@ namespace DAL
                             if (passwordBD == user.Clave)
                             {
                                 us = new Usuario();
-                                us.USERNAME = reader["Nombre"].ToString();
+                                us.NombreUsuario = reader["Nombre"].ToString();
                                 us.Clave = passwordBD;
                                 int tipo = Convert.ToInt32(reader["TipoUsuario"]);
                                 us.TipoUser = tipo;
