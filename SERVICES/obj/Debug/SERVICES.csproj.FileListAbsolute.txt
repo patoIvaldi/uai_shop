@@ -7,6 +7,17 @@ C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.csproj.CopyComplete
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.dll
 C:\Users\Pato\Desktop\Facultad\Desarrollo y arquitectura web\ejercicios\tp-final-ok\SERVICES\obj\Debug\SERVICES.pdb
+<<<<<<< HEAD
+C:\Users\Pablo\Desktop\WEB\SERVICES\bin\Debug\SERVICES.dll
+C:\Users\Pablo\Desktop\WEB\SERVICES\bin\Debug\SERVICES.pdb
+C:\Users\Pablo\Desktop\WEB\SERVICES\bin\Debug\BE.dll
+C:\Users\Pablo\Desktop\WEB\SERVICES\bin\Debug\BE.pdb
+C:\Users\Pablo\Desktop\WEB\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\WEB\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\WEB\SERVICES\obj\Debug\SERVICES.csproj.Up2Date
+C:\Users\Pablo\Desktop\WEB\SERVICES\obj\Debug\SERVICES.dll
+C:\Users\Pablo\Desktop\WEB\SERVICES\obj\Debug\SERVICES.pdb
+=======
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\SERVICES.dll
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\SERVICES.pdb
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\bin\Debug\BE.dll
@@ -16,3 +27,4 @@ C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.csproj.CoreComp
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.csproj.Up2Date
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.dll
 C:\Users\kdpel\Source\Repos\uai_shop\SERVICES\obj\Debug\SERVICES.pdb
+>>>>>>> main

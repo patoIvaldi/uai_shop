@@ -35,14 +35,14 @@ namespace SERVICES
             byte[] stream2 = null;
             StringBuilder sb = new StringBuilder();
             StringBuilder sb2 = new StringBuilder();
-            stream2 = sha256.ComputeHash(encoding.GetBytes(user.CONTRASENIA));
+            stream2 = sha256.ComputeHash(encoding.GetBytes(user.Clave));
             for (int i = 0; i < stream2.Length; i++)
             {
                 sb2.AppendFormat("{0:x2}", stream2[i]);
             }
             Usuario userEncriptado = new Usuario();
             userEncriptado.USERNAME = user.USERNAME;
-            userEncriptado.CONTRASENIA = sb2.ToString();
+            userEncriptado.Clave = sb2.ToString();
             return userEncriptado; // TODO poner de nuevo userEncriptado, use user solo para testing
         }
 
@@ -55,12 +55,12 @@ namespace SERVICES
             StringBuilder sb = new StringBuilder();
             if (cadena.Equals("PassWord"))
             {
-                stream = sha256.ComputeHash(encoding.GetBytes(user.CONTRASENIA));
+                stream = sha256.ComputeHash(encoding.GetBytes(user.Clave));
                 for (int i = 0; i < stream.Length; i++)
                 {
                     sb.AppendFormat("{0:x2}", stream[i]);
                 }
-                user.CONTRASENIA = sb.ToString();
+                user.Clave = sb.ToString();
             }
             return user;
         }
