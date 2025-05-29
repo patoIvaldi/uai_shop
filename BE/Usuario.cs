@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace BE
 {
@@ -14,23 +18,12 @@ namespace BE
             set { username = value; }
         }
 
-        private string clave;
+        private string contrasenia;
 
-        public string Clave
+        public string CONTRASENIA
         {
-            get { return clave; }
-            set { clave = value; }
+            get { return contrasenia; }
+            set { contrasenia = value; }
         }
-
-        private int tipoUser;
-
-        public int TipoUser
-        {
-            get { return tipoUser; }
-            set { tipoUser = value; }
-        }
-
-        public Perfil Permiso { get; set; }
-
     }
 }
