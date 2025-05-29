@@ -2,4 +2,58 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/uai_shop/.vs/
+# Carpetas comunes de salida
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.log
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.ncb
+*.aps
+*.cache
+*.dbmdl
+
+# Configuraciones de VS
+.vs/
+.vscode/
+
+# Archivos de publicación
+_PublishedWebsites/
+*.Publish.xml
+
+# Archivos de Web.config transformados
+web.*.config
+
+# Paquetes NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Archivos de trabajo temporales
+~$*
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# Archivos de usuario
+*.resharper
+*.DotSettings.user
+
+# Archivos de IIS Express
+.vs/
+iisexpress/
+
+# Otros archivos del sistema
+Thumbs.db
+Desktop.ini
+
